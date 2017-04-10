@@ -38,12 +38,14 @@ module.exports = {
 The task runner file.
 
 **Properties**
+
 | Property | Purpose | Usage |
 | --- | :---: | :--- |
 | ReqDirs | For copying dependency outputs from other folders to the release folder | `node: "The Other Place", out: "Where you want it to go"`
 
 
 **Functions**
+
 | Task | What it does |
 | --- | :--- |
 | (default) | Builds the SCSS and Javascript folders. Output: `build/css` and `build/js`
