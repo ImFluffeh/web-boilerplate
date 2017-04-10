@@ -1,12 +1,12 @@
 {
-  "name": "jonathan-schmold-fsd",
+  "name": "YOUR PROJECT NAME",
   "version": "1.0.0",
   "description": "",
   "main": "entry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jonathan Schmold",
+  "author": "YOUR NAME",
   "license": "UNLICENSED",
   "devDependencies": {
     "babel-cli": "^6.24.1",
