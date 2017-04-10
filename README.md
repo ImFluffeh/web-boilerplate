@@ -28,8 +28,8 @@ This is global import file. Anything to do with config, create a new file, `requ
 // Name your config 'namespace' 
 module.exports = {
     Webpack: require('./webpack.config'),
-   	Globals: require('./globalsettings'),
-	YourConfigNamespace: require('./yourfile')
+    Globals: require('./globalsettings'),
+    YourConfigNamespace: require('./yourfile')
 }
 	
 ```
