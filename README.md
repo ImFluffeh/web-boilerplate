@@ -91,4 +91,4 @@ ___
 - I wanted it to be abstract enough that expansion is very easy. The existing code should be possible to completely ignore, with some exceptions. The result was what you see here.
 
 ##### What if something doesn't work properly?
-- Let me know. I will do what I can to fix itr
+- Let me know. I will do what I can to fix it
