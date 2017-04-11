@@ -70,6 +70,7 @@ gulp.task('compress-css', ['build-scss'], () => {
 })
 
 gulp.task('makedirs', () => {
+    fs.mkdirSync('release')
     for(var k in ReqDirs) {
         if(ReqDirs[k].node == undefined || ReqDirs[k].out == undefined) {
             throw "Invalid format of Required Directory. Requires field 'node' and 'out'"
